@@ -1,0 +1,16 @@
+﻿Week 5  Reflective Journal
+Topic: self-reflection
+Student name: LI YIMING    
+Student ID: 36711713
+1.Description
+Over the past two weeks, we learned how to handle time-series data and missing values, including resampling, rolling calculations, and simple and kNN imputation. These topics required me to use Pandas while deciding which method suited the data.
+2.Feelings
+I felt comfortable with the coding because Python and Pandas remain my strongest areas. However, I was less confident when justifying why one method was preferable to another. This showed me that deeper understanding requires more than correct code.
+3.Evaluation
+I can now distinguish resampling from rolling calculations and recognise that mean, median and kNN imputation have different strengths and limitations. My weakness is explaining these choices when several methods seem reasonable.
+4.Analysis
+Earlier in the semester, I recognised that I relied too much on procedural understanding. I now consider data context before choosing a method. Removing missing values may waste useful information, while simple imputation can distort distributions and kNN may preserve patterns but require more computation. Considering data type, purpose and trade-offs has improved my problem-solving.
+5.Conclusion
+I have begun to address the gap I previously identified between procedural coding and conceptual reasoning. I now understand that reliable data science requires both technical skills and the ability to justify methods according to data characteristics, analytical goals and possible consequences.
+6.Action Plan
+I will redo studio examples independently, compare alternative methods on the same data, and explain each choice in my own words. I will record uncertain cases for class discussion and check how each method changes the data or interpretation before accepting the result.
